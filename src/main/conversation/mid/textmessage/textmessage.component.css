@@ -11,7 +11,7 @@
 .timetick
 {
   display: flex;
-  align-items: flex-end;
+  align-self: flex-end;
   color: #111b21;
 
 }
