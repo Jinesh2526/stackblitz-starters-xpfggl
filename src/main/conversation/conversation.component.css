@@ -4,7 +4,7 @@
   flex-direction: column;
   justify-content: flex-start;
   height: 44.5rem;
-  background-color: red;
+  /* background-color: red; */
 align-items: center;
 }
 .con-header{
@@ -31,6 +31,6 @@ background-color: violet;
   justify-content: center;
   height: 4rem;
   width: 100%;
-  background-color:aqua;
+  /* background-color:aqua; */
 
 }
