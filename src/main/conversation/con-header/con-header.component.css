@@ -1,0 +1,34 @@
+.bigbox{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #f0f2f5;
+  height: 2rem;
+  width: 100%;
+  padding: 1rem;
+  border-bottom: 1px solid #ccc;
+}
+.user{
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0 1rem;
+width: 50%;
+/* background-color: red; */
+height: 2rem;
+
+}
+.dp{
+  height: 3rem;
+  width: 3rem;
+  margin-right: 2rem;
+
+}
+.dp > img{
+  border-radius: 50%;
+
+}
+.name{
+  font-size: 1.3rem;
+}
